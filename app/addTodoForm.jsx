@@ -59,9 +59,4 @@ const addTodoForm = () => {
   );
 };
 
-export const metadata = {
-  title: "Register Page",
-  description: "This is a Todo App Project made for Next.js series",
-};
-
 export default addTodoForm;
